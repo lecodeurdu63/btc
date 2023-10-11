@@ -1,0 +1,2 @@
+# btc
+miner of btc
